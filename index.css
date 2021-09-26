@@ -14,5 +14,5 @@ h2{
     width: 200px;
 }
 .nav{
-    flex-direction:column;
+    display: flex;
 }
