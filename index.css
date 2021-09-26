@@ -12,7 +12,6 @@ ol{
 }
 h2{
     width: 200px;
-border-width: 5px solid;
 }
 .nav{
     flex-direction:column;
